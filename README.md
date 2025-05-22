@@ -5,7 +5,8 @@ This project is designed to model a **Medicine Management Management System** us
  
 ├─ [database report.docx](https://github.com/user-attachments/files/20353806/database.report.docx) /report.docx        ← Your written report
  
-  ├─ /presentation.pptx  ← Your slides
+  ├─[database project (1).pptx](https://github.com/user-attachments/files/20396603/database.project.1.pptx)
+ /presentation.pptx  ← Your slides
 
   ├─ /video_link.txt     ← Public YouTube/MS Stream URL
 
