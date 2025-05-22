@@ -8,7 +8,7 @@ This project is designed to model a **Medicine Management Management System** us
   ├─[database project (1).pptx](https://github.com/user-attachments/files/20397119/database.project.1.pptx)
 /presentation.pptx  ← Your slides
 
-  ├─ /video_link.txt     ← Public YouTube/MS Stream URL
+  ├─https://youtu.be/xoq-4qa4WqE?si=R3ToIJiSTv_0urTg /video_link.txt     ← Public YouTube/MS Stream URL
 
   /sql/
 
