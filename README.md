@@ -74,7 +74,8 @@ CREATE TABLE IF NOT EXISTS Bill (
 );
 ```
 *load_data.sql        ← INSERT scripts (min 10 records/table)*
-```INSERT INTO Doctor (doctor_id, doctor_name, qualification, specialization) VALUES 
+```
+INSERT INTO Doctor (doctor_id, doctor_name, qualification, specialization) VALUES 
 (1, 'Dr. Ahmed Hisham', 'MBBS, MD', 'Cardiology'),
 (2, 'Dr. Mariam El-Sayed', 'MBBS, PhD', 'Endocrinology'),
 (3, 'Dr. Youssef Nabil', 'MBBS', 'General Medicine'),
