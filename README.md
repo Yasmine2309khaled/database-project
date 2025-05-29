@@ -13,7 +13,8 @@ This project is designed to model a **Medicine Management Management System** us
   /sql/
 
 *create_tables.sql    ← DDL (Table definitions)*
-```CREATE DATABASE IF NOT EXISTS medicine_inventory_management_system;
+```
+CREATE DATABASE IF NOT EXISTS medicine_inventory_management_system;
 USE medicine_inventory_management_system;
 
 CREATE TABLE IF NOT EXISTS Disease (
