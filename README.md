@@ -10,7 +10,7 @@ This project is designed to model a **Medicine Management Management System** us
 
   ├─https://youtu.be/xoq-4qa4WqE?si=R3ToIJiSTv_0urTg /video_link.txt     ← Public YouTube/MS Stream URL
 
-  /sql/
+├─(db%20project%20sql.sql) /sql/
 
 *create_tables.sql    ← DDL (Table definitions)*
 ```
