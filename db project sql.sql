@@ -210,6 +210,14 @@ END$$
 
 DELIMITER ;
 
+INSERT INTO Prescription (prescription_id, doctor_id, patient_name, issue_date)
+VALUES (1011, 3, 'Nour Hassan', '2025-05-22');
+
+INSERT INTO Prescription_Medicine (prescription_id, medicine_id, quantity)
+VALUES (1011, 104, 2);
+
+SELECT * FROM Bill WHERE prescription_id = 1011;
+
 SELECT doctor_name
 FROM Doctor
 WHERE specialization = 'Cardiology';
